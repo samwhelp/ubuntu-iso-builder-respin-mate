@@ -1,0 +1,22 @@
+
+
+##
+## # Email Client
+##
+
+
+
+
+##
+## ## Package / Email Client / thunderbird
+##
+
+##
+## > thunderbird : PreDepends: snapd but it is not installable
+##
+
+#thunderbird
+#thunderbird-locale-zh-hant
+#thunderbird-locale-zh-hans
+#thunderbird-locale-ja
+#thunderbird-locale-ko
